@@ -16,6 +16,7 @@ public class RowColumnBinarySearch {
     }
 
     public static int[] search(int[][] matrix, int target) {
+
         int r = 0;
         int c = matrix[0].length - 1;
 
